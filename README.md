@@ -1,6 +1,6 @@
 # AIFUN机场
 
-![Views](https://komarev.com/ghpvc/?username=aifun-la&repo=AIFUN&label=Views&color=brightgreen&style=flat)
+![Views](https://komarev.com/ghpvc/?username=aifun-la&repo=afun&label=Views&color=brightgreen&style=flat)
 
 ## 🌐AIFUN官网：[aifun.la](https://dash.afun.la/register?code=VnkSSkmH)
 
