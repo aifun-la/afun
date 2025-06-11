@@ -1,6 +1,6 @@
-# AIFUN机场
+# AIFUN机场官网
 
-![Views](https://komarev.com/ghpvc/?username=aifun-la&repo=afun&label=Views&color=brightgreen&style=flat)
+![Views](https://komarev.com/ghpvc/?username=aifun-la&repo=AIFUN&label=Views&color=brightgreen&style=flat)
 
 ## 🌐AIFUN官网：[aifun.la](https://dash.afun.la/register?code=VnkSSkmH)
 
@@ -17,6 +17,7 @@ AIFUN爱翻，是一家专注于提供高速、稳定、安全的跨境网络服
 - 📱 客户端多平台支持，操作简便，不限制设备连接数
 - 📺 解锁主流流媒体 & AI工具（流媒体解锁YouTube，奈飞，迪士尼，TikTok，Prime Video，HBO Max，Spotify，Steam，Instagram，哔哩哔哩港澳台等，AI解锁ChatGPT，Claude，Gemini，MetaAI，Grok等）
 
+### 港新日美有 0.2X 低倍率节点，138G 能当 690G用
 ---
 
 ### 🌎️ 落地国家地区节点
@@ -25,9 +26,11 @@ AIFUN爱翻，是一家专注于提供高速、稳定、安全的跨境网络服
 ---
 
 ### 🎟️ 优惠码
-> 双九折优惠码：**xiaoheizi**
+> 九五折优惠码：**95Zhe**
 
-> 大型节假日，官网还会特别上线优惠折扣活动！请收藏官网 https://aifun.la
+> 九折优惠码：**xiaoheizi**
+
+> 官网会不定期上线特别优惠折扣活动！请收藏官网 https://aifun.la
 
 ---
 
@@ -45,16 +48,15 @@ AIFUN爱翻，是一家专注于提供高速、稳定、安全的跨境网络服
 
 ### 🌐 官网
 
-**afun官网：[aifun.la](https://aifun.la)**
+**AFUN官网：[aifun.la](https://aifun.la)**
 
-**afun机场官网：[aifun.la](https://aifun.la)**
+**AFUN机场官网：[aifun.la](https://aifun.la)**
 
-**aifun官网：[aifun.la](https://aifun.la)**
+**AIFUN爱翻官网：[aifun.la](https://aifun.la)**
 
-**aifun机场官网：[aifun.la](https://aifun.la)**
+**AIFUN爱翻机场官网：[aifun.la](https://aifun.la)**
 
 ---
 
 PS：本站服务暂不支持新疆地区使用
-
 
